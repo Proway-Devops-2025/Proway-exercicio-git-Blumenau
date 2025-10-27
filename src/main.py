@@ -1,11 +1,11 @@
-import sys
-
 #!/usr/bin/env python3
+import sys
 """Simple script to sum two numbers."""
 
 
 def sum_two(a, b):
-  return a - b
+  return a + b  # corrigido: antes fazia subtração
+
 
 def parse_number(s):
   try:
@@ -15,6 +15,7 @@ def parse_number(s):
       return float(s)
     except ValueError:
       raise ValueError(f"Not a number: {s!r}")
+
 
 def main(argv=None):
   argv = argv or sys.argv[1:]
@@ -34,6 +35,7 @@ def main(argv=None):
   result = sum_two(a, b)
   print(result)
   return 0
+
 
 if __name__ == "__main__":
   raise SystemExit(main())
