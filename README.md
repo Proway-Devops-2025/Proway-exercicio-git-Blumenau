@@ -26,6 +26,10 @@ O propósito deste exercício é **simular um fluxo de desenvolvimento colaborat
 
 ---
 
+## Versão do projeto
+
+```v1.0.0```
+
 ## 🧩 Tecnologias e Ferramentas
 
 - **Git & GitHub** – Controle de versão e repositórios remotos  
