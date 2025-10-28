@@ -18,13 +18,20 @@ O propósito deste exercício é **simular um fluxo de desenvolvimento colaborat
 ## 👥 Integrantes do Grupo
 
 | Nome |
-|------|---------|--------|
-| **Juliaaaa Gabriele Kreling** | 
-| **Predo Zanella** | 
-| **Rafaelll Demarch** | 
-| **Maxxxxxxx Leal da Silva** | 
+|------|
+| **Julia Gabriele Kreling** |
+| **Pedro Henrique Zanella** |
+| **Rafael Reinert Demarch** |
+| **Max Augusto Leal da Silva** |
 
 ---
+
+## Versão do projeto
+
+```
+v1.0.0
+v1.0.1
+```
 
 ## 🧩 Tecnologias e Ferramentas
 
